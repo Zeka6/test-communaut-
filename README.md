@@ -9,4 +9,3 @@ Test Communauté is a comprehensive wiki designed to provide detailed informatio
 
 ## Getting Started
 To get started with the Test Communauté wiki, follow these steps:
-https://github.com/Zeka6/test-communaut-.wiki.git
